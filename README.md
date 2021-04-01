@@ -4,19 +4,17 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Table of contents
 
-- [Overview](#overview)
+  - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+  - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -44,9 +42,9 @@ FrontEndMentor-Profile-Card-Solution.jpg
 
 ### What I learned
 
-- To be intresded in details.
-- Dealing with FlexBox Layout and practicing its properties.
-- dealing and Choosing the apropriate unit (Pixel, Viewport units, Percentage)
+-To be interested in details.
+-Dealing with FlexBox Layout and practicing its properties.
+-Choosing the appropriate unit (Pixel, Viewport units, Percentage)
 ````
 body {
   width: 100vw;
@@ -68,18 +66,12 @@ body {
 
 
 ### Useful resources
-
+     www.w3schools.com
+     Elzero-Web-School Youtube channel
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Youssef](In construction)
+- Frontend Mentor - [@youssicode](https://www.frontendmentor.io/profile/youssicode)
+- Facebook - (https://www.facebook.com/youssef.elhrouzi)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
