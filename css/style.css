@@ -35,15 +35,15 @@ body {
 
 .top-card {
   border-radius: 10px 10px 0px 0px;
-  height: 40%;
+  height: 36%;
   background-image: url(../images/bg-pattern-card.svg);
   /* in case the browser couldn't download the background image */
   background-color: hsl(185, 75%, 39%, 0.7);
 }
 
 .middle-card {
-  height: 38%;
-  border-bottom: 1px solid hsl(0, 0%, 75%);
+  height: 40%;
+  border-bottom: 1px solid hsl(0, 0%, 85%);
 }
 
 .middle-card .photo {
@@ -56,7 +56,7 @@ body {
 }
 .bottom-card {
   border-radius: 0px 0px 10px 10px;
-  height: 22%;
+  height: 24%;
   /* layout the bottom-card */
   display: flex;
   justify-content: space-evenly;
@@ -64,7 +64,7 @@ body {
 }
 
 .stats {
-  font-size: 12px;
+  font-size: 13px;
 }
 h3 {
   font-size: 18px;
