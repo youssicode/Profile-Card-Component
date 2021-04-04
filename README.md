@@ -23,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-./FrontEndMentor-Profile-Card-Solution.jpg
+./images/FrontEndMentor-Profile-Card-Solution.jpg
 
 ### Links
 
