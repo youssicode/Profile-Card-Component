@@ -1,20 +1,19 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-  - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [Author](#author)
-
+- [Overview](#overview)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [My process](#my-process)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Overview
 
@@ -24,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-FrontEndMentor-Profile-Card-Solution.jpg
+./FrontEndMentor-Profile-Card-Solution.jpg
 
 ### Links
 
@@ -32,6 +31,12 @@ FrontEndMentor-Profile-Card-Solution.jpg
 - Live Site URL: (https://youssicode.github.io/Profile-Card-Component/)
 
 ## My process
+
+- Building the HTML file first
+- Styling the container/Body
+- Styling and positioning the Card
+- Styling and positioning the Card'components fromtop to bottom
+- Positioning the 2 background circles
 
 ### Built with
 
@@ -45,7 +50,8 @@ FrontEndMentor-Profile-Card-Solution.jpg
 -To be interested in details.
 -Dealing with FlexBox Layout and practicing its properties.
 -Choosing the appropriate unit (Pixel, Viewport units, Percentage)
-````
+
+```
 body {
   width: 100vw;
   height: 100vh;
@@ -56,7 +62,8 @@ body {
   margin-top: -50px;
   border: 5px solid white;
 }
-````
+```
+
 - Positioning backgroud images.
 
 ### Continued development
@@ -64,8 +71,8 @@ body {
 -Mastering FlexBox layout.
 -The use of the Viewport units.
 
-
 ### Useful resources
+
      www.w3schools.com
      Elzero-Web-School Youtube channel
 
@@ -74,4 +81,3 @@ body {
 - Website - [Youssef](In construction)
 - Frontend Mentor - [@youssicode](https://www.frontendmentor.io/profile/youssicode)
 - Facebook - (https://www.facebook.com/youssef.elhrouzi)
-
